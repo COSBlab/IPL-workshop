@@ -85,7 +85,7 @@ All day
    * Explain goal, provide data
    * Start exercise
  
-### Day 5
+### Day 5: group activity
 9.00-12.00
 * Prepare slides and present results (short group presentation)
 

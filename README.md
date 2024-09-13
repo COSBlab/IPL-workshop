@@ -1,5 +1,5 @@
 # IPL-workshop
-Material for the Structural Bioinformatics workshop at Institut Pasteur Laos (Sept. 30 - Oct. 4).
+Material for the Structural Bioinformatics workshop at Institut Pasteur Laos (Sept. 30 - Oct. 4 2024).
 
 ## Software required
 Here is a list of software to be installed on your Linux/Mac laptop.

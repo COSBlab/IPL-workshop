@@ -14,7 +14,7 @@ Some software require a (free) license:
 * [MODELLER](https://salilab.org/modeller/): homology modelling
 
 ## Online resources
-These are the webservers and online resources we will use during the workshop:
+These are the webservers and online resources that we will use during the workshop:
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): find similarities between sequences 
 * [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html): sequence alignment tool
 * [AlphaFold2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb): structure prediction from sequence

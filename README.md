@@ -7,11 +7,22 @@ Some software require a (free) license:
 
 * [Anaconda](https://www.anaconda.com/): management python modules
 * [Python Notebook](https://jupyter.org): interactive environment to run python code
-* [MDAnalysis](https://www.mdanalysis.org/): python library for structural analysis
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization
 * [FoldX](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
 * [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 
 * [MODELLER](https://salilab.org/modeller/): homology modelling
+
+Conda can be used to install the python libraries that will be used during the workshop:
+* [MDAnalysis](https://www.mdanalysis.org/)
+* [os](https://docs.python.org/3/library/os.html) 
+* [sys](https://docs.python.org/3/library/sys.html)
+* [json](https://docs.python.org/3/library/json.html)
+* [re](https://docs.python.org/3/library/re.html)
+* [glob](https://docs.python.org/3/library/glob.html)
+* [numpy](https://numpy.org)
+* [argparse](https://docs.python.org/3/library/argparse.html)
+* [matplotlib](https://matplotlib.org)
+* [biopython](https://biopython.org/)
 
 ## Online resources
 These are the webservers and online resources that we will use during the workshop:

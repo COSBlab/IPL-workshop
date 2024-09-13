@@ -2,7 +2,7 @@
 
 # Softwares and Libraries to have:
 
-##Python libraries:
+## Python libraries:
 
 ### Standard libraries:
 os

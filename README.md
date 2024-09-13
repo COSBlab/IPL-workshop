@@ -32,26 +32,26 @@ These are the webservers and online resources we will use during the workshop:
 9.00-10.30
 *   **T**:  Introduction to the course: goals and overview of the program
 *   **T**:  How to BLAST the PDB for structures with partners
-*   **T**:  Revise sequence alignment (with ClustalW or MAFFT)
+*   **T**:  Revise sequence alignment (with MAFFT)
 
 10.30-12.30 
-*   **P**: Find homolog structures with antibodies/receptors + sequence alignment: Exercise. Test system: XXX
+*   **P**: Find homolog structures with antibodies/receptors and sequence alignment
 
 14.00-15.30
 *   **T**: Introduction to MODELLER
-*   **T**: Structural analysis with MDAnalysis
+*   **T**: Structural analysis with MDAnalysis: map interfaces
 
 15.30-18.00
-*   **P**: Build homology models viral protein + receptor/antibody. Test system: XXX
-*   **P**: Structural analysis (map interface) with MDanalysis (We can provide a jupyter notebook template for interface mapping to use each time they need to do this if they have no prior notion of python)
+*   **P**: Build homology models of viral protein in complex with receptor/antibody
+*   **P**: Structural analysis (map interface) with MDanalysis
 
 ### Day 2
 9.00-10.00 
 *   **T**:  Introduction to AF2 and AF3 for monomer modeling
-*   **T**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies) and retrieve data
+*   **T**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies)
  
 10.00-12.30
-*   **P**: Building models of viral proteins with AF2/AF3. Test system: XXX
+*   **P**: Building models of viral proteins with AF2/AF3
 *   **P**: Look for similar structures in complex with antibodies/receptors
 *   **P**: Structural analysis (map interface) with MDAnalysis
 
@@ -60,25 +60,25 @@ These are the webservers and online resources we will use during the workshop:
 *   **T**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P**: AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek). Test system: XXX
+*   **P**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
 *   **P**: Structural analysis (map interface) with MDAnalysis
 *   **P**: Quality assessment with different scoring functions
 
 ### Day 3
 9.00-10.00 
 *    **T**: AI prediction of protein binding sites: Pesto and ScanNet
-*    **T**: The Oxford database of antibodies structures
+*    **T**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
-*    **P**: Practice on the use of Pesto and ScanNet. Test Systems: XXX
-*    **P**: Benchmark on bound structures of antigen/antibodies from Oxford database
+*    **P**: Practice on the use of Pesto and ScanNet
+*    **P**: Benchmark on bound structures of antigen/antibodies from SAbDab
 
 14.00-15.00
 *    **T**:  Introduction to physics-based docking: HADDOCK
-*    **T**:  Description of the tutorials
+*    **T**:  Description of the tutorial
 
 15.00-18.00
-*   **P**: HADDOCK Tutorial antibody/antigen
+*   **P**: HADDOCK Tutorial on antibody/antigen
 
 ### Day 4: group activity
 All day
@@ -87,5 +87,5 @@ All day
  
 ### Day 5
 9.00-12.00
-* prepare slides and present results (short group presentation)
+* Prepare slides and present results (short group presentation)
 

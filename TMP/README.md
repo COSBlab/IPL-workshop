@@ -1,8 +1,10 @@
 # Temporary storage
 
-# Sowtwares and Libraries to have:
+# Softwares and Libraries to have:
 
-Python libraries:
+##Python libraries:
+
+### Standard libraries:
 os
 sys
 json
@@ -11,6 +13,8 @@ glob
 numpy
 argparse
 matplotlib
+
+### Modelling libraries:
 
 biopython
 (https://biopython.org/)

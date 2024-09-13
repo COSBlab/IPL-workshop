@@ -8,7 +8,7 @@ env4.io.atom_files_directory = ['.', '../../Structures/']
 
 a = AutoModel(env4, 
               alnfile='alignment.pir',
-              knowns='', 
+              knowns=[''], 
               sequence='capsid',
               assess_methods=(assess.DOPE,
                               assess.normalized_dope,

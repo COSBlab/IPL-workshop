@@ -45,7 +45,7 @@ In this exercise, we will use [FoldSeek](https://search.foldseek.com/search) to 
 To complete this exercise, the student will:
 * select one or more AF2/AF3 models obtained in the previous exercise
 * upload the PDB of the model on FoldSeek. For AF3 models, please make sure to use the PDB file and not the CIF.
-* select the ```PDB100`` database
+* select the ```PDB100``` database
 * try with two different similarity metrics: ```3Di/AA``` and ```TM-align```
 * inspect the table of results, in particular: 
 

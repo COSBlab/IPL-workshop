@@ -48,7 +48,7 @@ These are the webservers and online resources that we will use during the worksh
 ## Program of the workshop
 **T**: theoretical lecture; **P**: practical
 
-### Day 1
+### [Day 1](DAY-1/README.md)
 9.00-10.30
 *   **T1**:  Introduction to the course: goals and overview of the program
 *   **T2**:  Identify homolog structures in complex with receptors and antibodies

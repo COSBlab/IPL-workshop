@@ -12,6 +12,7 @@ To complete this exercise, the student needs to:
 * paste the target sequence into the box "Enter Query Sequence"
 * select the "Protein Data Bank" as database
 * run the search
+* analyse results table: system type, sequence identity, coverage, structure resolution
 
 ## P2: Sequence alignment with MAFFT
 

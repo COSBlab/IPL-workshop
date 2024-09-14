@@ -12,12 +12,6 @@ Some software require a (free) license:
 * [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 
 * [MODELLER](https://salilab.org/modeller/): homology modelling
 
-### Installing Python Notebook with Homebrew
-On Linux and MacOS, you can install Jupyter by running:
-```
-brew install jupyterlab
-```
-
 ### Create conda environment
 Conda can be used to install the python libraries that will be used during the workshop.
 First, we need to create a conda environment:

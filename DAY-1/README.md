@@ -108,5 +108,8 @@ To complete this exercise, the student needs to:
 In this exercise, we will use [MDanalysis](https://salilab.org/modeller/) to analyze the homology models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor. 
 
 **Tasks**
-To complete this exercise, the student needs to:
 
+To complete this exercise, the student needs to:
+* edit and use the Python notebook ```MDAnalysis_interaction_profile.ipynb``` to analyze each individual model
+* the notebook will provide, for each model analyzed, the list of residues of the viral protein interacting with a partner
+* This notebook can be used to analyze models obtained with different templates, for example with different antibodies/receptors. The student can then visualize the frequency at which each residue interacts with a partner across different models to identify immunogenic domains

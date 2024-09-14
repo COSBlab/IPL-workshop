@@ -13,9 +13,3 @@
 
 **Tasks**
 
-
-## P7: Structural analysis with MDAnalysis
-
-**Aim**
-
-**Tasks**

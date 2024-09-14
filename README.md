@@ -74,16 +74,15 @@ These are the webservers and online resources that we will use during the worksh
 10.00-12.30
 *   **P5**: Building models of viral proteins with AF2/AF3
 *   **P6**: Look for similar structures in complex with antibodies/receptors
-*   **P7**: Structural analysis with MDAnalysis
 
 14.00-15.00
 *   **T8**: Building models of protein complexes with AF2/AF3-multimer
 *   **T9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P8**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
+*   **P7**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
+*   **P8**: Quality assessment with different scoring functions
 *   **P9**: Structural analysis with MDAnalysis
-*   **P10**: Quality assessment with different scoring functions
 
 ### [Day 3](DAY-3/README.md)
 9.00-10.00 
@@ -91,15 +90,15 @@ These are the webservers and online resources that we will use during the worksh
 *    **T11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
-*    **P11**: Practice on the use of Pesto and ScanNet
-*    **P12**: Benchmark on bound structures of antigen/antibodies from SAbDab
+*    **P10**: Practice on the use of Pesto and ScanNet
+*    **P11**: Benchmark on bound structures of antigen/antibodies from SAbDab
 
 14.00-15.00
 *    **T12**:  Introduction to physics-based docking: HADDOCK
 *    **T13**:  Description of the tutorial
 
 15.00-18.00
-*   **P13**: HADDOCK Tutorial on antibody/antigen
+*   **P12**: HADDOCK Tutorial on antibody/antigen
 
 ### [Day 4](DAY-4/README.md)
 All day

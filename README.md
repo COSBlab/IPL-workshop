@@ -46,7 +46,7 @@ These are the webservers and online resources that we will use during the worksh
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB
 
 ## Program of the workshop
-**T**: theoretical lecture; **P**: practical
+**T**: lecture; **P**: practical
 
 ### [Day 1](DAY-1/README.md)
 9.00-10.30

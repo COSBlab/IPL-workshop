@@ -26,18 +26,6 @@ Now we can install all the modules needed during our workshop
 ```
 conda install matplotlib jupyterlab numpy biopython mdanalysis --channel conda-forge
 ```
-
-* [MDAnalysis](https://www.mdanalysis.org/)
-* [os](https://docs.python.org/3/library/os.html) 
-* [sys](https://docs.python.org/3/library/sys.html)
-* [json](https://docs.python.org/3/library/json.html)
-* [re](https://docs.python.org/3/library/re.html)
-* [glob](https://docs.python.org/3/library/glob.html)
-* [numpy](https://numpy.org)
-* [argparse](https://docs.python.org/3/library/argparse.html)
-* [matplotlib](https://matplotlib.org)
-* [biopython](https://biopython.org/)
-
 ## Online resources
 These are the webservers and online resources that we will use during the workshop:
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): find similarities between sequences 

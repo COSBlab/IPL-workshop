@@ -46,21 +46,21 @@ These are the webservers and online resources that we will use during the worksh
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB
 
 ## Program of the workshop
-**T**: lecture; **P**: practical
+**L**: lecture; **P**: practical
 
 ### [Day 1](DAY-1/README.md)
 9.00-10.30
-*   **T1**:  Introduction to the course: goals and overview of the program
-*   **T2**:  Identify homolog structures in complex with receptors and antibodies
-*   **T3**:  Revise sequence alignment
+*   **L1**:  Introduction to the course: goals and overview of the program
+*   **L2**:  Identify homolog structures in complex with receptors and antibodies
+*   **L3**:  Revise sequence alignment
 
 10.30-12.30 
 *   **P1**: Identify homolog structures wth BLAST
 *   **P2**: Sequence alignment with MAFFT
 
 14.00-15.30
-*   **T4**: Introduction to MODELLER
-*   **T5**: Structural analysis with MDAnalysis
+*   **L4**: Introduction to MODELLER
+*   **L5**: Structural analysis with MDAnalysis
 
 15.30-18.00
 *   **P3**: Build homology models of viral protein in complex with receptor/antibody
@@ -68,16 +68,16 @@ These are the webservers and online resources that we will use during the worksh
 
 ### [Day 2](DAY-2/README.md) 
 9.00-10.00 
-*   **T6**:  Introduction to AF2 and AF3 for monomer modeling
-*   **T7**:  Foldseek: how to look for similar structures in the PDB (with receptors/antibodies)
+*   **L6**:  Introduction to AF2 and AF3 for monomer modeling
+*   **L7**:  Foldseek: how to look for similar structures in the PDB (with receptors/antibodies)
  
 10.00-12.30
 *   **P5**: Building models of viral proteins with AF2/AF3
 *   **P6**: Look for similar structures in complex with antibodies/receptors
 
 14.00-15.00
-*   **T8**: Building models of protein complexes with AF3
-*   **T9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
+*   **L8**: Building models of protein complexes with AF3
+*   **L9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
 *   **P7**: Practise AF3 with protein complexes
@@ -86,16 +86,16 @@ These are the webservers and online resources that we will use during the worksh
 
 ### [Day 3](DAY-3/README.md)
 9.00-10.00 
-*    **T10**: AI prediction of protein binding sites: Pesto and ScanNet
-*    **T11**: SAbDab: the Oxford database of antibodies structures
+*    **L10**: AI prediction of protein binding sites: Pesto and ScanNet
+*    **L11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
 *    **P10**: Practice on the use of Pesto and ScanNet
 *    **P11**: Benchmark on bound structures of antigen/antibodies from SAbDab
 
 14.00-15.00
-*    **T12**:  Introduction to physics-based docking: HADDOCK
-*    **T13**:  Description of the tutorial
+*    **L12**:  Introduction to physics-based docking: HADDOCK
+*    **L13**:  Description of the tutorial
 
 15.00-18.00
 *   **P12**: HADDOCK Tutorial on antibody/antigen

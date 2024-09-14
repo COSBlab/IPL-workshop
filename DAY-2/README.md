@@ -30,7 +30,9 @@ To complete this exercise:
 
   2. now we will analyse the per-residue pLDDT across all models generated with AF2 and AF3. To do so, we have prepared a Python Notebook:
 
-     ```jupyter lab analyze_AF.ipynb```
+     ```
+     jupyter lab analyze_AF.ipynb
+     ```
 
   3. based on the quality assessment above, we will identify the most reliable model(s) to be used in the next exercise 
 
@@ -38,14 +40,20 @@ To complete this exercise:
 
 **Aim**
 
-In this exercise, we will use [FoldSeek](https://search.foldseek.com/search) to identify proteins structurally similar to the AF2/AF3 of the viral spike and possibly in complex with antibodies/receptors. Sometimes such proteins have low sequence identity with the target protein and therefore cannot be identified with a sequence similarity search with BLAST.
+In this exercise, we will use [Foldseek](https://search.foldseek.com/search) to identify proteins structurally similar to the AF2/AF3 of the viral spike and possibly in complex with antibodies/receptors. Sometimes such proteins have low sequence identity with the target protein and therefore cannot be identified with a sequence similarity search with BLAST.
 
 **Tasks**
 
 To complete this exercise, the student will:
 * select one or more AF2/AF3 models obtained in the previous exercise
-* upload the PDB of the model on FoldSeek. For AF3 models, please make sure to use the PDB file and not the CIF.
+* upload the PDB of the model on Foldseek. For AF3 models, please make sure to use the PDB file and not the CIF.
 * select the ```PDB100``` database
 * try with two different similarity metrics: ```3Di/AA``` and ```TM-align```
 * inspect the table of results, in particular: 
 
+* the table can be inspected online or downloaded as json file (```Downloads/All data```). In the latter case, the following Python
+  Notebook can be used to filter the entries using different criteria:
+  ```
+  jupyter lab analyze_Foldseek.ipynb
+  ```
+ 

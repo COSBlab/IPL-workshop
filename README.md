@@ -12,7 +12,7 @@ Some software require a (free) license:
 * [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 
 * [MODELLER](https://salilab.org/modeller/): homology modelling
 
-### Create conda environment
+### Install python libraries with Conda
 Conda can be used to install the python libraries that will be used during the workshop.
 First, we need to create a conda environment:
 ```

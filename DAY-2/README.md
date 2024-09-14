@@ -46,10 +46,12 @@ In this exercise, we will use [Foldseek](https://search.foldseek.com/search) to 
 
 To complete this exercise, the student will:
 * select one or more AF2/AF3 models obtained in the previous exercise
-* upload the PDB of the model on Foldseek. For AF3 models, please make sure to use the PDB file and not the CIF.
+* upload the PDB of the model on Foldseek. For AF3 models, please make sure to use the PDB file and not the CIF
 * select the ```PDB100``` database
 * try with two different similarity metrics: ```3Di/AA``` and ```TM-align```
-* inspect the table of results, in particular: 
+* inspect the table of results, in particular look for systems in complex with antibodies/receptors with high similarity, as measured by TM-score or RMSD.  
+
+  ![title](Foldseek.png)
 
 * the table can be inspected online or downloaded as json file (```Downloads/All data```). In the latter case, the following Python
   Notebook can be used to filter the entries using different criteria:

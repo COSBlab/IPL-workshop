@@ -65,7 +65,8 @@ To complete this exercise, the student needs to:
   ```
   The script will generate ```template.pdb``` with only the desired chains.
 
-* prepare an alignment file in MODELLER (pir) format with the sequences of the chains to model. This file is constructed from the alignment obtained with MAFFT with a few modifications:
+* prepare an alignment file in MODELLER format (pir) with the sequences of the chains to model (C, I, and K). 
+  This file can be easily constructed from the alignment obtained with MAFFT with a few modifications:
   1. The sequence of the template should start with the following header:
   ```
   >P1;template
@@ -80,11 +81,12 @@ To complete this exercise, the student needs to:
   We name this file ```alignment.pir```.
 
 * prepare the MODELLER python script, called ```build_model.py```. This script specifies:
-  1. the name of the template ```knowns='template'```
-  2. the name of the target sequence ```sequence='BANAL-20-52'```
-  3. the directory where the template PDB can be found
-  4. the scoring functions used to evaluate the model quality
-  5. the number of homology models to build (min 5, max 100)
+  1. the name of the alignment file ```alnfile  = 'alignment.pir'```
+  2. the name of the template ```knowns='template'```
+  3. the name of the target sequence ```sequence='BANAL-20-52'```
+  4. the directory where the template PDB can be found
+  5. the scoring functions used to evaluate the model quality
+  6. the number of homology models to build (min 5, max 100)
 
 * run MODELLER. This can be simply done with:
   ```

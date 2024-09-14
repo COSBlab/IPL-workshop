@@ -8,7 +8,7 @@ In this exercise, we will use both [AF2](https://colab.research.google.com/githu
 
 **Tasks**
 
-To complete this exercisei:
+To complete this exercise:
 * we will start using the ColabFold v1.5.5 implementation of AF2 to generate structural models.
   The students might want to play with the following parameters:
   1. ```template_mode```: to avoid using templates (```none```) or to use detected templates in pdb100 (```pdb100```)

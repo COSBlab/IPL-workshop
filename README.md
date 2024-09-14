@@ -52,47 +52,47 @@ These are the webservers and online resources that we will use during the worksh
 *   **P2**: Sequence alignment with MAFFT
 
 14.00-15.30
-*   **T**: Introduction to MODELLER
-*   **T**: Structural analysis with MDAnalysis: map interfaces
+*   **T4**: Introduction to MODELLER
+*   **T5**: Structural analysis with MDAnalysis
 
 15.30-18.00
-*   **P**: Build homology models of viral protein in complex with receptor/antibody
-*   **P**: Structural analysis (map interface) with MDanalysis
+*   **P3**: Build homology models of viral protein in complex with receptor/antibody
+*   **P4**: Structural analysis with MDanalysis
 
 ### Day 2
 9.00-10.00 
-*   **T**:  Introduction to AF2 and AF3 for monomer modeling
-*   **T**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies)
+*   **T6**:  Introduction to AF2 and AF3 for monomer modeling
+*   **T7**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies)
  
 10.00-12.30
-*   **P**: Building models of viral proteins with AF2/AF3
-*   **P**: Look for similar structures in complex with antibodies/receptors
-*   **P**: Structural analysis (map interface) with MDAnalysis
+*   **P5**: Building models of viral proteins with AF2/AF3
+*   **P6**: Look for similar structures in complex with antibodies/receptors
+*   **P7**: Structural analysis with MDAnalysis
 
 14.00-15.00
-*   **T**: Building models of protein complexes with AF2/AF3-multimer
-*   **T**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
+*   **T8**: Building models of protein complexes with AF2/AF3-multimer
+*   **T9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
-*   **P**: Structural analysis (map interface) with MDAnalysis
-*   **P**: Quality assessment with different scoring functions
+*   **P8**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
+*   **P9**: Structural analysis with MDAnalysis
+*   **P10**: Quality assessment with different scoring functions
 
 ### Day 3
 9.00-10.00 
-*    **T**: AI prediction of protein binding sites: Pesto and ScanNet
-*    **T**: SAbDab: the Oxford database of antibodies structures
+*    **T10**: AI prediction of protein binding sites: Pesto and ScanNet
+*    **T11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
-*    **P**: Practice on the use of Pesto and ScanNet
-*    **P**: Benchmark on bound structures of antigen/antibodies from SAbDab
+*    **P11**: Practice on the use of Pesto and ScanNet
+*    **P12**: Benchmark on bound structures of antigen/antibodies from SAbDab
 
 14.00-15.00
-*    **T**:  Introduction to physics-based docking: HADDOCK
-*    **T**:  Description of the tutorial
+*    **T12**:  Introduction to physics-based docking: HADDOCK
+*    **T13**:  Description of the tutorial
 
 15.00-18.00
-*   **P**: HADDOCK Tutorial on antibody/antigen
+*   **P13**: HADDOCK Tutorial on antibody/antigen
 
 ### Day 4: group activity
 All day

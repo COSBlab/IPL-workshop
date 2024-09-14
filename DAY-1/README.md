@@ -68,11 +68,13 @@ To complete this exercise, the student needs to:
 * prepare an alignment file in MODELLER (pir) format with the sequences of the chains to model. This file is constructed from the alignment obtained with MAFFT with a few modifications:
   1. The sequence of the template should start with the following header:
   ```
-  XXX
+  >P1;template
+  structureX:template:FIRST:C:LAST::template::-1.00:-1.00
   ```
   2. The target sequence should start with the following header:
   ```
-  XXX
+  >P1;BANAL-20-52
+  sequence:BANAL-20-52:1::LAST:::::
   ```
   Chains are separated by the symbol ```/``` and the last chain should be terminated with ```*```.
   We name this file ```alignment.pir```.

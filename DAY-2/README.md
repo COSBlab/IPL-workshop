@@ -15,7 +15,9 @@ To complete this exercisei:
   2. ```num_recycles```: to change the number of recycles (try varying from 1 to 3)
   3. playing with sampling parameters: ```max_msa```, ```num_seeds```, and ```use_dropout``` 
 
-* The quality of the models (avg.pLDDT, MSA coverage) can be inspected directly online by inspecting the plots reported. 
+* The quality of the models (avg.pLDDT, MSA coverage) can be assessed directly online by inspecting the plots reported. 
+
+  ![title](MSA.png)
 
   We will download the PDB of the models for visualization with ChimeraX and analysis with Python notebook (see below)
 

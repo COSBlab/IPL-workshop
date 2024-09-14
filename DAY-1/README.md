@@ -86,7 +86,7 @@ To complete this exercise, the student needs to:
   3. the name of the target sequence ```sequence='BANAL-20-52'```
   4. the directory where the template PDB can be found
   5. the scoring functions used to evaluate the model quality
-  6. the number of homology models to build (min 5, max 100)
+  6. the number of homology models to build (5 for this example)
 
 * run MODELLER. This can be simply done with:
   ```

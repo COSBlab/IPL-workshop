@@ -1,6 +1,28 @@
-# Reference data
-This folder contains pre-calculated data useful to complete the exercises:
+# Temporary storage
 
-* BANAL-20-52: reference data for the exercises on days 1 to 3
-* HEV: reference data and scripts for group activity on day 4
-* SAbDab: PDBs from the Oxford database of antibody structures 
+# Softwares and Libraries to have:
+
+## Python libraries:
+
+### Standard libraries:
+os
+sys
+json
+re
+glob
+numpy
+argparse
+matplotlib
+
+### Modelling libraries:
+
+biopython
+(https://biopython.org/)
+
+modeller
+(  $conda config --add channels salilab  )
+(  $conda install modeller               )
+
+MDAnalysis
+(https://www.mdanalysis.org/)
+(  $pip install MDAnalysis  )

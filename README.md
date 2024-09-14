@@ -76,11 +76,11 @@ These are the webservers and online resources that we will use during the worksh
 *   **P6**: Look for similar structures in complex with antibodies/receptors
 
 14.00-15.00
-*   **T8**: Building models of protein complexes with AF2/AF3-multimer
+*   **T8**: Building models of protein complexes with AF3
 *   **T9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P7**: Practise AF2/AF3-multimer (viral protein + partners identified before from homology or FoldSeek)
+*   **P7**: Practise AF3 with protein complexes (viral protein + partners identified before from homology or FoldSeek)
 *   **P8**: Quality assessment with different scoring functions
 *   **P9**: Structural analysis with MDAnalysis
 

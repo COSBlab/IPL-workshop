@@ -34,4 +34,4 @@ for c in ch:
     out.write("%s\n" % seq)
 
 # write a PDB with only protein atoms
-u.select_atoms("protein").write(FILE_.split(".")[0]+"-protein.pdb")
+at_p.write(FILE_.split(".")[0]+"-protein.pdb")

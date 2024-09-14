@@ -10,18 +10,19 @@ In this exercise, we will use both [AF2](https://colab.research.google.com/githu
 
 To complete this exercisei:
 * we will start using the ColabFold v1.5.5 implementation of AF2 to generate structural models.
-  The students is expected to play with the following parameters:
+  The students might want to play with the following parameters:
   1. ```template_mode```: to avoid using templates (```none```) or to use detected templates in pdb100 (```pdb100```)
   2. ```num_recycles```: to change the number of recycles (try varying from 1 to 3)
-  3. playing with sampling parameters: ```max_msa```, ```num_seeds```, and ```use_dropout``` 
+  3. the sampling parameters: ```max_msa```, ```num_seeds```, and ```use_dropout``` 
 
 * The quality of the models (avg.pLDDT, MSA coverage) can be assessed directly online by inspecting the plots reported. 
 
   ![title](MSA.png)
+  ![title](AF2-pLDDT.png)
 
   We will download the PDB of the models for visualization with ChimeraX and analysis with Python notebook (see below)
 
-* we will then use AF3, which provides a limited number of options. With AF3, we will inspect the model quality online and download a zip file with all the results for further analysis.
+* we will then use AF3, which does not provide the same options as the ColabFold implementation of AF2. With AF3, we will inspect the model quality online and download a zip file with all the results for further analysis.
 
   ![title](AF3.png)
 

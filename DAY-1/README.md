@@ -17,7 +17,9 @@ To complete this exercise, the student needs to:
 
 The results table should look like this:
 
-![title](blast.png)
+![title](blast.png =250x)
+
+You can also download the hit table and inspect the results using the python notebook ```analyze_BLAST.ipynb```. 
 
 ## P2: Sequence alignment with MAFFT
 

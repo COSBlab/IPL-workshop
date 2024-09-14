@@ -38,7 +38,7 @@ These are the webservers and online resources that we will use during the worksh
 * [HADDOCK](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/): High Ambiguity Driven protein-protein DOCKing
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB
 
-## Preliminary program
+## Program of the workshop
 **T**: theoretical lecture; **P**: practical
 
 ### Day 1

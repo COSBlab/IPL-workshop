@@ -102,3 +102,11 @@ To complete this exercise, the student needs to:
   ```
 
 ## P4: Structural analysis with MDanalysis
+
+**Aim**
+
+In this exercise, we will use [MDanalysis](https://salilab.org/modeller/) to analyze the homology models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor. 
+
+**Tasks**
+To complete this exercise, the student needs to:
+

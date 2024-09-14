@@ -28,6 +28,12 @@ To complete this exercisei:
 * now that we have generated a number of models with AF2 and AF3, we will perform additional analysis on our local hardware.
   1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors. We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. 
 
+  2. now we will analyse the per-residue pLDDT across all models generated with AF2 and AF3. To do so, we have prepared a Python Notebook:
+
+     ```jupyter lab analyze_AF.ipynb```
+
+  3. based on the quality assessment above, we will identify the most reliable model(s) to be used in the next exercise 
+
 ## P6: Look for similar structures in complex with antibodies/receptors
 
 **Aim**

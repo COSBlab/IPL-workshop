@@ -30,7 +30,7 @@ In this exercise, we will use [MAFFT](https://mafft.cbrc.jp/alignment/server/ind
 To complete this exercise, the student needs to:
 
 * retrieve the sequences of the homolog identified in the previous exercise with BLAST. 
-  The sequence should be extracted from each PDB file using the ```get_fasta_PDB.py``` script as follows:
+  The sequence should be extracted from the PDB file using the ```get_fasta_PDB.py``` script as follows:
 ```
 python get_fasta_PDB.py 7cwl.pdb 
 ```

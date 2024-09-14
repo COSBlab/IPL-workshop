@@ -12,7 +12,17 @@ Some software require a (free) license:
 * [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 
 * [MODELLER](https://salilab.org/modeller/): homology modelling
 
-Conda can be used to install the python libraries that will be used during the workshop:
+### Create conda environment
+Conda can be used to install the python libraries that will be used during the workshop.
+First, we need to create a conda environment:
+```
+conda create --name IPL-workshop
+```
+and activate it:
+```
+conda activate IPL-workshop
+```
+
 * [MDAnalysis](https://www.mdanalysis.org/)
 * [os](https://docs.python.org/3/library/os.html) 
 * [sys](https://docs.python.org/3/library/sys.html)

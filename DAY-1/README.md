@@ -65,12 +65,12 @@ To complete this exercise, the student needs to:
   ```
   The script will generate ```template.pdb``` with only the desired chains.
 
-* prepare an alignment file in MODELLER (pir) format with the sequences of the chains to model. This file is constructed from the alignment obtained with MAFFT a few modifications:
-  1. Sequence of the template should start with the following header:
+* prepare an alignment file in MODELLER (pir) format with the sequences of the chains to model. This file is constructed from the alignment obtained with MAFFT with a few modifications:
+  1. The sequence of the template should start with the following header:
   ```
   XXX
   ```
-  2. Target sequence should start with the following header:
+  2. The target sequence should start with the following header:
   ```
   XXX
   ```
@@ -81,7 +81,7 @@ To complete this exercise, the student needs to:
   1. the name of the template ```knowns='template'```
   2. the name of the target sequence ```sequence='BANAL-20-52'```
   3. the directory where the template PDB can be found
-  4. the scoring functions to use to evaluate the model quality
+  4. the scoring functions used to evaluate the model quality
   5. the number of homology models to build (min 5, max 100)
 
 * run MODELLER. This can be simply done with:

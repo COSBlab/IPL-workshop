@@ -12,7 +12,7 @@ To complete this exercise, the student needs to:
 * paste the target sequence into the box "Enter Query Sequence"
 * select the "Protein Data Bank" as database
 * run the search
-* analyse results table: system type, sequence identity, coverage, structure resolution
+* analyse the results table: system type, sequence identity, coverage, structure resolution
 
 ## P2: Sequence alignment with MAFFT
 
@@ -22,4 +22,9 @@ In this exercise, we will use [MAFFT](https://mafft.cbrc.jp/alignment/server/ind
 
 **Tasks**
 
-To complete this exercise, the student needs to: 
+To complete this exercise, the student needs to:
+
+* retrieve the sequences of the homologs identified in the previous exercise with BLAST
+* paste these sequences along with the target sequence in the "Input" box
+* run the alignment with default parameters
+* inspect the results 

@@ -35,7 +35,7 @@ To complete this exercise, the student needs to:
 python get_fasta_PDB.py 7cwl.pdb 
 ```
 This script will create two files:
-1. ```7cwl.fasta```: sequence extracted from the PDB, one per chain. Non-protein atoms will be removed
+1. ```7cwl.fasta```: sequence extracted from the PDB, one per chain. Non-protein atoms have been removed
 2. ```7cwl-protein.pdb```: PDB file containing only protein residues matching the sequence file ```7cwl.fasta``` 
 
 * paste the correct sequence (ignore sequences of antibodies/receptors present in the homolog PDB) along with the target sequence in the "Input" box

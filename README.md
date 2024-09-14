@@ -39,7 +39,7 @@ These are the webservers and online resources that we will use during the worksh
 * [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html): sequence alignment tool
 * [AlphaFold2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb): structure prediction from sequence
 * [AlphaFold3](https://alphafoldserver.com/about): structure prediction from sequence
-* [FoldSeek](https://search.foldseek.com/search): find similarities from structure
+* [Foldseek](https://search.foldseek.com/search): find similarities from structure
 * [Pesto](https://pesto.epfl.ch/): parameter-free geometric deep learning method to predict protein interaction interfaces
 * [ScanNet](http://bioinfo3d.cs.tau.ac.il/ScanNet/): geometric deep learning model for predicting protein binding sites from structure 
 * [HADDOCK](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/): High Ambiguity Driven protein-protein DOCKing
@@ -69,7 +69,7 @@ These are the webservers and online resources that we will use during the worksh
 ### [Day 2](DAY-2/README.md) 
 9.00-10.00 
 *   **T6**:  Introduction to AF2 and AF3 for monomer modeling
-*   **T7**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies)
+*   **T7**:  Foldseek: how to look for similar structures in the PDB (with receptors/antibodies)
  
 10.00-12.30
 *   **P5**: Building models of viral proteins with AF2/AF3

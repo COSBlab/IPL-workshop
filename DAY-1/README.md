@@ -33,12 +33,12 @@ To complete this exercise, the student needs to:
 
 * retrieve the sequence of the homolog identified in the previous exercise with BLAST. 
   The sequence should be extracted from the PDB file using the ```get_fasta_PDB.py``` script as follows:
-```
-python get_fasta_PDB.py 7cwl.pdb 
-```
-This script will create two files:
-1. ```7cwl.fasta```: sequence extracted from the PDB, one per chain. Non-protein atoms have been removed
-2. ```7cwl-protein.pdb```: PDB file containing only protein residues matching the sequence file ```7cwl.fasta``` 
+  ```
+  python get_fasta_PDB.py 7cwl.pdb 
+  ```
+  This script will create two files:
+  1. ```7cwl.fasta```: sequence extracted from the PDB, one per chain. Non-protein atoms have been removed
+  2. ```7cwl-protein.pdb```: PDB file containing only protein residues matching the sequence file ```7cwl.fasta``` 
 
 * paste the sequence of the correct chain (ignore sequences of antibodies/receptors present in the homolog PDB) along with the target sequence in the "Input" box
 * run the alignment with default parameters

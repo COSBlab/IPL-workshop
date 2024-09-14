@@ -15,8 +15,10 @@ al["HIS"]="H"; al["HIE"]="H"
 # load universe reference PDB complex
 u = mda.Universe(FILE_)
 
+# get protein atoms
+at_p = u.select_atoms("protein")
 # get list of chains
-ch = u.select_atoms("protein").segments
+ch = at_p.segments
 
 # prepare output file
 out = open(FILE_.split(".")[0]+".fasta", "w")
@@ -26,7 +28,7 @@ for c in ch:
     # initialize sequence
     seq=''
     # loop over residues
-    for r in u.select_atoms('protein and segid '+str(c.segid)).residues:
+    for r in at_p.select_atoms('segid '+str(c.segid)).residues:
         seq += al[r.resname]
     out.write(">chain-%s\n" % str(c.segid))
     out.write("%s\n" % seq)

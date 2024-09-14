@@ -41,12 +41,13 @@ These are the webservers and online resources that we will use during the worksh
 
 ### Day 1
 9.00-10.30
-*   **T**:  Introduction to the course: goals and overview of the program
-*   **T**:  How to BLAST the PDB for structures with partners
-*   **T**:  Revise sequence alignment (with MAFFT)
+*   **T1**:  Introduction to the course: goals and overview of the program
+*   **T2**:  Identify homolog structures in complex with receptors and antibodies
+*   **T3**:  Revise sequence alignment
 
 10.30-12.30 
-*   **P**: Find homolog structures with antibodies/receptors and sequence alignment
+*   **P1**: Identify homolog structures wth BLAST
+*   **P2**: Sequence alignment with MAFFT
 
 14.00-15.30
 *   **T**: Introduction to MODELLER

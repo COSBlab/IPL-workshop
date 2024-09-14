@@ -26,6 +26,13 @@ Now we can install all the modules needed during our workshop
 ```
 conda install matplotlib jupyterlab numpy biopython mdanalysis --channel conda-forge
 ```
+
+Many of the python scripts that we will use will be executed using Jupyter Python Notebooks.
+To activate the environment, just type:
+```
+jupyter lab
+```
+
 ## Online resources
 These are the webservers and online resources that we will use during the workshop:
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): find similarities between sequences 

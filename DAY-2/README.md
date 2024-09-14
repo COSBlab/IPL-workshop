@@ -15,10 +15,9 @@ To complete this exercise:
   2. ```num_recycles```: to change the number of recycles (try varying from 1 to 3)
   3. the sampling parameters: ```max_msa```, ```num_seeds```, and ```use_dropout``` 
 
-* The quality of the models (avg.pLDDT, MSA coverage) can be assessed directly online by inspecting the plots reported. 
+* The quality of the models (Predicted aligned error, or PAE, MSA coverage, and pLDDT) can be assessed directly online by inspecting the plots reported. 
 
-  ![title](MSA.png)
-  ![title](AF2-pLDDT.png)
+  ![title](AF2-plots.png)
 
   We will download the PDB of the models for visualization with ChimeraX and analysis with Python notebook (see below)
 
@@ -39,5 +38,14 @@ To complete this exercise:
 
 **Aim**
 
+In this exercise, we will use [FoldSeek](https://search.foldseek.com/search) to identify proteins structurally similar to the AF2/AF3 of the viral spike and possibly in complex with antibodies/receptors. Sometimes such proteins have low sequence identity with the target protein and therefore cannot be identified with a sequence similarity search with BLAST.
+
 **Tasks**
+
+To complete this exercise, the student will:
+* select one or more AF2/AF3 models obtained in the previous exercise
+* upload the PDB of the model on FoldSeek. For AF3 models, please make sure to use the PDB file and not the CIF.
+* select the ```PDB100`` database
+* try with two different similarity metrics: ```3Di/AA``` and ```TM-align```
+* inspect the table of results, in particular: 
 

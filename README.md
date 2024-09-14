@@ -66,7 +66,7 @@ These are the webservers and online resources that we will use during the worksh
 *   **P3**: Build homology models of viral protein in complex with receptor/antibody
 *   **P4**: Structural analysis with MDanalysis
 
-### Day 2
+### [Day 2](DAY-2/README.md) 
 9.00-10.00 
 *   **T6**:  Introduction to AF2 and AF3 for monomer modeling
 *   **T7**:  FoldSeek: how to look for similar structures in the PDB (with receptors/antibodies)
@@ -85,7 +85,7 @@ These are the webservers and online resources that we will use during the worksh
 *   **P9**: Structural analysis with MDAnalysis
 *   **P10**: Quality assessment with different scoring functions
 
-### Day 3
+### [Day 3](DAY-3/README.md)
 9.00-10.00 
 *    **T10**: AI prediction of protein binding sites: Pesto and ScanNet
 *    **T11**: SAbDab: the Oxford database of antibodies structures
@@ -101,12 +101,12 @@ These are the webservers and online resources that we will use during the worksh
 15.00-18.00
 *   **P13**: HADDOCK Tutorial on antibody/antigen
 
-### Day 4: group activity
+### [Day 4](DAY-4/README.md)
 All day
-   * Explain goal, provide data
+   * Group activity: explain goal, provide sequence HEV capsid
    * Start exercise
  
-### Day 5: group activity
+### [Day 5](DAY-5/README.md) 
 9.00-12.00
 * Prepare slides and present results (short group presentation)
 

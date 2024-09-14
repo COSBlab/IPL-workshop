@@ -13,6 +13,7 @@ To complete this exercise, the student needs to:
 * select the "Protein Data Bank" as database
 * run the search
 * analyse the results table: system type, sequence identity, coverage, structure resolution
+* identify homologs and inspect them visually with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/).
 
 The results table should look like this:
 
@@ -32,4 +33,4 @@ To complete this exercise, the student needs to:
 * paste these sequences along with the target sequence in the "Input" box
 * run the alignment with default parameters
 * inspect the results
-* download the alignment file () to be used in the next exercises 
+* download the alignment file (Fasta format) to be used in the next exercises 

@@ -30,7 +30,7 @@ conda activate IPL-workshop
 ```
 Now we can install all the modules needed during our workshop
 ```
-conda install matplotlib jupyterlab numpy argparse biopython json --channel conda-forge
+conda install matplotlib jupyterlab numpy biopython mdanalysis --channel conda-forge
 ```
 
 * [MDAnalysis](https://www.mdanalysis.org/)

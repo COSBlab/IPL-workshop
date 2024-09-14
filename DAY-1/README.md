@@ -14,6 +14,10 @@ To complete this exercise, the student needs to:
 * run the search
 * analyse the results table: system type, sequence identity, coverage, structure resolution
 
+The results table should look like this:
+
+![title](blast.png)
+
 ## P2: Sequence alignment with MAFFT
 
 **Aim**
@@ -27,4 +31,5 @@ To complete this exercise, the student needs to:
 * retrieve the sequences of the homologs identified in the previous exercise with BLAST
 * paste these sequences along with the target sequence in the "Input" box
 * run the alignment with default parameters
-* inspect the results 
+* inspect the results
+* download the alignment file () to be used in the next exercises 

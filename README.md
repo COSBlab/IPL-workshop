@@ -80,7 +80,7 @@ These are the webservers and online resources that we will use during the worksh
 *   **T9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P7**: Practise AF3 with protein complexes (viral protein + partners identified before from homology or FoldSeek)
+*   **P7**: Practise AF3 with protein complexes
 *   **P8**: Quality assessment with different scoring functions
 *   **P9**: Structural analysis with MDAnalysis
 

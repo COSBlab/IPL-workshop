@@ -18,6 +18,8 @@ To complete this exercise, the student needs to:
 
 **Aim**
 
+In this exercise, we will use [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html) to do a sequence alignment between the homolog(s) identified in the previous exercise and the target sequence.
+
 **Tasks**
 
 To complete this exercise, the student needs to: 

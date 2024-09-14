@@ -28,7 +28,7 @@ conda install matplotlib jupyterlab numpy biopython mdanalysis --channel conda-f
 ```
 
 Many of the python scripts that we will use will be executed using Jupyter Python Notebooks.
-To activate the environment, just type:
+To open the Python Notebooks environment, just type:
 ```
 jupyter lab
 ```

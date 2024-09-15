@@ -90,14 +90,14 @@ These are the webservers and online resources that we will use during the worksh
 *    **L11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
-*    **P10**: Practice on the use of Pesto and ScanNet
+*    **P10**: [Practice on the use of Pesto and ScanNet](DAY-3/README.md#P10)
 
 14.00-15.00
 *    **L12**: Introduction to physics-based docking: HADDOCK
 *    **L13**: Description of the tutorial
 
 15.00-18.00
-*   **P11**: HADDOCK Tutorial on antibody/antigen
+*   **P11**: [HADDOCK Tutorial on antibody/antigen](DAY-3/README.md#P11)
 
 ### [Day 4](DAY-4/README.md)
 All day

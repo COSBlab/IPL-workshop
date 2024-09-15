@@ -109,4 +109,4 @@ In this exercise, we will use [MDanalysis](https://salilab.org/modeller/) to ana
 
 To complete this exercise, the student needs to:
 * edit and use the Python notebook ```MDAnalysis_interaction_profile.ipynb``` previously used to analyze homology models
-* this notebook should be adapted to analyze all the AF3 models obtained (5 models for each complex with antibody/fabs) and compute the frequency at which each residue of the viral protein interacts with a partner across different models to identify immunogenic domains. To do so, the student will create a PDB file of the viral protein in which the Bfactor column will report the interaction frequency with partners across all the AF3 models generated 
+* this notebook should be adapted to analyze all the AF3 models obtained (5 models for each complex with antibody/fabs) and compute the frequency at which each residue of the viral protein interacts with a partner across different models to identify immunogenic domains. Finally, the student will create a PDB file of the viral protein in which the Bfactor column will report the interaction frequency with partners across all the AF3 models generated 

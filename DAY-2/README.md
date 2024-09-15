@@ -58,4 +58,22 @@ To complete this exercise, the student will:
   ```
   jupyter lab analyze_Foldseek.ipynb
   ```
+
+## P7: Building models of protein complexes with AF3
  
+**Aim**
+
+In this exercise, we will use [AF3](https://alphafoldserver.com/about) to build structural models of our viral protein in complex with antibodies/receptors. 
+
+**Tasks**
+
+To complete this exercise, the student will:
+* identify antibodies/receptors that could potentially bind the viral protein. The student can use the information obtained in previous exercises:
+  1. BLAST: potential partners discovered with a sequence similarity search
+  2. Foldseek: potential partners discovered with a structure similiarity search
+
+* as an example, we will build a protein complex of the viral protein in complex with the Fab P17 (BLAST) and XXX (Foldseek)
+
+* we will retrieve the FASTA sequences of the partners directly from the [PDB](https://www.rcsb.org) by downloading them from the entries of the homologues identified with BLAST and Foldseek, for example [7cwl](https://www.rcsb.org/structure/7cwl), chains I and K
+
+* on the AF3 webpage, the student will input one sequence per each component of the protein complex and submit the job. The student are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day

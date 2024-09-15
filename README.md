@@ -55,7 +55,7 @@ These are the webservers and online resources that we will use during the worksh
 *   **L3**:  Revise sequence alignment
 
 10.30-12.30 
-*   **P1**: Identify homolog structures wth BLAST
+*   **P1**: [Identify homolog structures wth BLAST](DAY-1/README.md#P1)
 *   **P2**: Sequence alignment with MAFFT
 
 14.00-15.30

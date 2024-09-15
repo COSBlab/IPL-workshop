@@ -1,6 +1,6 @@
 # IPL-workshop: Day 1
 
-## P1: Identify homolog structures wth BLAST
+## <a name="P1"></a>P1: Identify homolog structures wth BLAST
 
 **Aim**
 

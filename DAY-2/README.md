@@ -92,9 +92,9 @@ To complete this exercise, the students will:
 * perfom additional validation on our local hardware:
   1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. Please note, for each system, where the antibodies bind across the 5 different AF3 models
 
-  2. now we will analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary
+  2. we now analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary
 
-* now we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
+* Finally, we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
      ```
      jupyter lab analyze_FoldX.ipynb
      ```  

@@ -89,7 +89,7 @@ These are the webservers and online resources that we will use during the worksh
 *    **L11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
-*    **P10**: [Practice on the use of Pesto and ScanNet](DAY-3/README.md#P10)
+*    **P10**: [AI prediction of protein binding sites: Pesto and ScanNet](DAY-3/README.md#P10)
 
 14.00-15.00
 *    **L12**: Introduction to physics-based docking: HADDOCK

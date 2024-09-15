@@ -76,11 +76,11 @@ These are the webservers and online resources that we will use during the worksh
 
 14.00-15.00
 *   **L8**: Building models of protein complexes with AF3
-*   **L9**: Binding affinity prediction for protein complexes
+*   **L9**: Binding free-energy estimation for protein complexes
 
 15.00-18.00
 *   **P7**: [Building models of protein complexes with AF3](DAY-2/README.md#P7) 
-*   **P8**: [Quality assessment and binding affinity prediction](DAY-2/README.md#P8)
+*   **P8**: [Quality assessment and binding free-energy estimation](DAY-2/README.md#P8)
 *   **P9**: [Structural analysis with MDAnalysis](DAY-2/README.md#P9)
 
 ### [Day 3](DAY-3/README.md)

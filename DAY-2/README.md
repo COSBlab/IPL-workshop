@@ -78,11 +78,12 @@ To complete this exercise, the student will:
 
 * on the AF3 webpage, the students will input one sequence per each component of the protein complex and submit the job. The students are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day
 
-## <a name="P8"></a>P8: Quality assessment and binding affinity prediction 
+## <a name="P8"></a>P8: Quality assessment and binding free-energy estimation
 
 **Aim**
 
-In this exercise, we will assess the quality of the models of the protein complexes obtained with AF3 in the previous exercise.
+In this exercise, we will assess the quality of the models of the protein complexes obtained with AF3 in the previous exercise and estimate the binding
+free-energy of the viral protein to its partner with [FoldX](https://foldxsuite.crg.eu/).
 
 **Tasks**
 

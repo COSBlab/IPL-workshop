@@ -7,7 +7,6 @@ Here is a list of software to be installed on your Linux/Mac laptop.
 Some software require a (free) license:
 
 * [Anaconda](https://www.anaconda.com/): management python modules
-* [Python Notebook](https://jupyter.org): interactive environment to run python code
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization
 * [FoldX](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
 * [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 

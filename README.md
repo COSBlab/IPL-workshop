@@ -68,8 +68,8 @@ These are the webservers and online resources that we will use during the worksh
 
 ### [Day 2](DAY-2/README.md) 
 9.00-10.00 
-*   **L6**:  Introduction to AF2 and AF3 for monomer modeling
-*   **L7**:  Foldseek: how to look for similar structures in the PDB (with receptors/antibodies)
+*   **L6**: Structure prediction with AI: AlphaFold2 and AlphaFold3
+*   **L7**: Foldseek: how to look for similar structures in the PDB
  
 10.00-12.30
 *   **P5**: Building models of viral proteins with AF2/AF3
@@ -80,7 +80,7 @@ These are the webservers and online resources that we will use during the worksh
 *   **L9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P7**: Practise AF3 with protein complexes
+*   **P7**: Building models of protein complexes with AF3 
 *   **P8**: Quality assessment with different scoring functions
 *   **P9**: Structural analysis with MDAnalysis
 
@@ -91,14 +91,13 @@ These are the webservers and online resources that we will use during the worksh
 
 10.00-12.30
 *    **P10**: Practice on the use of Pesto and ScanNet
-*    **P11**: Benchmark on bound structures of antigen/antibodies from SAbDab
 
 14.00-15.00
-*    **L12**:  Introduction to physics-based docking: HADDOCK
-*    **L13**:  Description of the tutorial
+*    **L12**: Introduction to physics-based docking: HADDOCK
+*    **L13**: Description of the tutorial
 
 15.00-18.00
-*   **P12**: HADDOCK Tutorial on antibody/antigen
+*   **P11**: HADDOCK Tutorial on antibody/antigen
 
 ### [Day 4](DAY-4/README.md)
 All day

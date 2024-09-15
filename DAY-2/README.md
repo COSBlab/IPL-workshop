@@ -87,7 +87,7 @@ In this exercise, we will assess the quality of the models of the protein comple
 **Tasks**
 
 To complete this exercise, the students will:
-* inspect the quality of models directly on the AF3 servers, in particular they will examine XXX
+* inspect the quality of models directly on the AF3 servers, in particular they will examine the pTM and ipTM scores: the predicted template modeling (pTM) score and the interface predicted template modeling (ipTM) score.
 * perfom additional validation on our local hardware:
   1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line.
 

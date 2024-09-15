@@ -77,3 +77,19 @@ To complete this exercise, the student will:
 * we will retrieve the FASTA sequences of the partners directly from the [PDB](https://www.rcsb.org) by downloading them from the entries of the homologues identified with BLAST and Foldseek, for example [7cwl](https://www.rcsb.org/structure/7cwl), chains I and K
 
 * on the AF3 webpage, the students will input one sequence per each component of the protein complex and submit the job. The students are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day
+
+## P8: Quality assessment with different scoring functions
+
+**Aim**
+
+In this exercise, we will
+
+**Tasks**
+
+## P9: Structural analysis with MDAnalysis
+
+**Aim**
+
+In this exercise, we will
+
+**Tasks**

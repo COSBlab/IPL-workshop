@@ -1,3 +1,3 @@
-# IPL-workshop: Day 4
+# IPL-workshop: Day 3
 
-## Preliminary program
+## <a name="P10"></a>P10: Practice on the use of Pesto and ScanNet

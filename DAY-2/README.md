@@ -97,6 +97,7 @@ To complete this exercise, the students will:
      ```
      jupyter lab analyze_FoldX.ipynb
      ```  
+ Please note that running this notebook might take long (30 minutes for 5 models). You might want to consider to execute the notebook and, while waiting for the results, move to the next exercise
 
 ## <a name="P9"></a>P9: Structural analysis with MDAnalysis
 

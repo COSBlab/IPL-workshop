@@ -26,7 +26,7 @@ To complete this exercise:
   ![title](AF3.png)
 
 * now that we have generated a number of models with AF2 and AF3, we will perform additional analysis on our local hardware.
-  1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors. We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. 
+  1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. 
 
   2. now we will analyse the per-residue pLDDT across all models generated with AF2 and AF3. To do so, we have prepared a Python Notebook:
 
@@ -82,9 +82,17 @@ To complete this exercise, the student will:
 
 **Aim**
 
-In this exercise, we will
+In this exercise, we will assess the quality of the models of the protein complexes obtained with AF3 in the previous exercise.
 
 **Tasks**
+
+To complete this exercise, the students will:
+* inspect the quality of models directly on the AF3 servers, in particular they will examine XXX
+* perfom additional validation on our local hardware:
+  1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line.
+
+  2. now we will analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to edit the notebook, if necessary.
+
 
 ## <a name="P9"></a>P9: Structural analysis with MDAnalysis
 

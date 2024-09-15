@@ -1,5 +1,6 @@
 # IPL-workshop
 Material for the Structural Bioinformatics workshop at Institut Pasteur Laos (Sept. 30 - Oct. 4 2024).
+Authors: Vincent Schnapka and Max Bonomi (Institut Pasteur - CNRS).
 
 ## Software required
 Here is a list of software to be installed on your Linux/Mac laptop.

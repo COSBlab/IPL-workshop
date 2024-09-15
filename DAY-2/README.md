@@ -103,7 +103,7 @@ To complete this exercise, the students will:
 
 **Aim**
 
-In this exercise, we will use [MDanalysis](https://salilab.org/modeller/) to analyze the AF3 models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor.
+In this exercise, we will use [MDAnalysis](https://www.mdanalysis.org) to analyze the AF3 models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor.
 
 **Tasks**
 

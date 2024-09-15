@@ -63,7 +63,7 @@ These are the webservers and online resources that we will use during the worksh
 
 15.30-18.00
 *   **P3**: [Build homology models of viral protein in complex with receptor/antibody](DAY-1/README.md#P3)
-*   **P4**: [Structural analysis with MDanalysis](DAY-1/README.md#P4)
+*   **P4**: [Structural analysis with MDAnalysis](DAY-1/README.md#P4)
 
 ### [Day 2](DAY-2/README.md) 
 9.00-10.00 

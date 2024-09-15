@@ -101,11 +101,11 @@ To complete this exercise, the student needs to:
   jupyter lab analyze_DOPE.ipynb    
   ```
 
-## <a name="P4"></a>P4: Structural analysis with MDanalysis
+## <a name="P4"></a>P4: Structural analysis with MDAnalysis
 
 **Aim**
 
-In this exercise, we will use [MDanalysis](https://salilab.org/modeller/) to analyze the homology models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor. 
+In this exercise, we will use [MDAnalysis](https://www.mdanalysis.org) to analyze the homology models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor. 
 
 **Tasks**
 

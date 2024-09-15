@@ -93,7 +93,7 @@ To complete this exercise, the students will:
 
   2. now we will analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary
 
-  3. we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
+* now we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
      ```
      jupyter lab analyze_FoldX.ipynb
      ```  

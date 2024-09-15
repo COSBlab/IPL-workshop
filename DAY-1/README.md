@@ -21,7 +21,7 @@ The results table should look like this:
 
 You can also download the hit table and inspect the results using the python notebook ```analyze_BLAST.ipynb```. 
 
-## P2: Sequence alignment with MAFFT
+## <a name="P2"></a>P2: Sequence alignment with MAFFT
 
 **Aim**
 
@@ -45,7 +45,7 @@ To complete this exercise, the student needs to:
 * inspect the results
 * download the alignment file (Fasta format) to be used in the next exercises
 
-## P3: Build homology models of viral protein in complex with receptor/antibody
+## <a name="P3"></a>P3: Build homology models of viral protein in complex with receptor/antibody
 
 **Aim**
 
@@ -101,7 +101,7 @@ To complete this exercise, the student needs to:
   jupyter lab analyze_DOPE.ipynb    
   ```
 
-## P4: Structural analysis with MDanalysis
+## <a name="P4"></a>P4: Structural analysis with MDanalysis
 
 **Aim**
 

@@ -56,15 +56,15 @@ These are the webservers and online resources that we will use during the worksh
 
 10.30-12.30 
 *   **P1**: [Identify homolog structures wth BLAST](DAY-1/README.md#P1)
-*   **P2**: Sequence alignment with MAFFT
+*   **P2**: [Sequence alignment with MAFFT](DAY-1/README.md#P2)
 
 14.00-15.30
 *   **L4**: Introduction to MODELLER
 *   **L5**: Structural analysis with MDAnalysis
 
 15.30-18.00
-*   **P3**: Build homology models of viral protein in complex with receptor/antibody
-*   **P4**: Structural analysis with MDanalysis
+*   **P3**: [Build homology models of viral protein in complex with receptor/antibody](DAY-1/README.md#P3)
+*   **P4**: [Structural analysis with MDanalysis](DAY-1/README.md#P4)
 
 ### [Day 2](DAY-2/README.md) 
 9.00-10.00 
@@ -72,17 +72,17 @@ These are the webservers and online resources that we will use during the worksh
 *   **L7**: Foldseek: how to look for similar structures in the PDB
  
 10.00-12.30
-*   **P5**: Building models of viral proteins with AF2/AF3
-*   **P6**: Look for similar structures in complex with antibodies/receptors
+*   **P5**: [Building models of viral proteins with AF2/AF3](DAY-2/README.md#P5)
+*   **P6**: [Look for similar structures in complex with antibodies/receptors](DAY-2/README.md#P6)
 
 14.00-15.00
 *   **L8**: Building models of protein complexes with AF3
 *   **L9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
 
 15.00-18.00
-*   **P7**: Building models of protein complexes with AF3 
-*   **P8**: Quality assessment with different scoring functions
-*   **P9**: Structural analysis with MDAnalysis
+*   **P7**: [Building models of protein complexes with AF3](DAY-2/README.md#P7) 
+*   **P8**: [Quality assessment with different scoring functions](DAY-2/README.md#P8)
+*   **P9**: [Structural analysis with MDAnalysis](DAY-2/README.md#P9)
 
 ### [Day 3](DAY-3/README.md)
 9.00-10.00 

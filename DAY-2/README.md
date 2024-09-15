@@ -1,6 +1,6 @@
 # IPL-workshop: Day 2
 
-## P5: Building models of viral proteins with AF2/AF3
+## <a name="P5"></a>P5: Building models of viral proteins with AF2/AF3
 
 **Aim**
 
@@ -36,7 +36,7 @@ To complete this exercise:
 
   3. based on the quality assessment above, we will identify the most reliable model(s) to be used in the next exercise 
 
-## P6: Look for similar structures in complex with antibodies/receptors
+## <a name="P6"></a>P6: Look for similar structures in complex with antibodies/receptors
 
 **Aim**
 
@@ -59,7 +59,7 @@ To complete this exercise, the student will:
   jupyter lab analyze_Foldseek.ipynb
   ```
 
-## P7: Building models of protein complexes with AF3
+## <a name="P7"></a>P7: Building models of protein complexes with AF3
  
 **Aim**
 
@@ -78,7 +78,7 @@ To complete this exercise, the student will:
 
 * on the AF3 webpage, the students will input one sequence per each component of the protein complex and submit the job. The students are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day
 
-## P8: Quality assessment with different scoring functions
+## <a name="P8"></a>P8: Quality assessment with different scoring functions
 
 **Aim**
 
@@ -86,7 +86,7 @@ In this exercise, we will
 
 **Tasks**
 
-## P9: Structural analysis with MDAnalysis
+## <a name="P9"></a>P9: Structural analysis with MDAnalysis
 
 **Aim**
 

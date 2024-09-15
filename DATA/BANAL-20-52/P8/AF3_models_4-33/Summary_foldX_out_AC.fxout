@@ -1,0 +1,14 @@
+FoldX 5.1 (2011)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: AF3_models_4-33/fold_banal_8csj_model_0_Repair.pdb
+Output type: AnalyseComplex
+Pdb	Group1	Group2	IntraclashesGroup1	IntraclashesGroup2	Interaction Energy	StabilityGroup1	StabilityGroup2
+AF3_models_4-33/fold_banal_8csj_model_0_Repair.pdb	A	BC	201.275	20.9943	-13.3753	544.141	-1.79157
+AF3_models_4-33/fold_banal_8csj_model_1_Repair.pdb	A	BC	197.789	26.7155	7.41331	487.897	3.74747
+AF3_models_4-33/fold_banal_8csj_model_3_Repair.pdb	A	BC	191.978	24.5172	2.75521	486.197	14.3067
+AF3_models_4-33/fold_banal_8csj_model_2_Repair.pdb	A	BC	179.322	24.8601	-8.65927	526.741	7.76724
+AF3_models_4-33/fold_banal_8csj_model_4_Repair.pdb	A	BC	206.035	36.8741	0.972972	472.299	16.2022

@@ -78,7 +78,7 @@ To complete this exercise, the student will:
 
 * on the AF3 webpage, the students will input one sequence per each component of the protein complex and submit the job. The students are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day
 
-## <a name="P8"></a>P8: Quality assessment with different scoring functions
+## <a name="P8"></a>P8: Quality assessment and binding affinity prediction 
 
 **Aim**
 
@@ -89,10 +89,14 @@ In this exercise, we will assess the quality of the models of the protein comple
 To complete this exercise, the students will:
 * inspect the quality of models directly on the AF3 servers, in particular they will examine the pTM and ipTM scores: the predicted template modeling (pTM) score and the interface predicted template modeling (ipTM) score.
 * perfom additional validation on our local hardware:
-  1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. Please note, for each system, where the antibodies bind across the 5 different AF3 models.
+  1. we start with visual inspection. You can open all the models with ChimeraX, align then with "Tools/Structure Analysis/Matchmaker" and color them by Bfactors (per-residue pLDDT). We can use the AlphaFold classic palette, by typing ```color bfactor palette alphafold``` in ChimeraX command line. Please note, for each system, where the antibodies bind across the 5 different AF3 models
 
-  2. now we will analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary.
+  2. now we will analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary
 
+  3. we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/) and evaluate the interface using . The student can run the following Python Notebook:
+     ```
+     jupyter lab analyze_FoldX.ipynb 
+     ```  
 
 ## <a name="P9"></a>P9: Structural analysis with MDAnalysis
 

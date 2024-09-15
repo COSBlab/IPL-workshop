@@ -8,9 +8,8 @@ Some software require a (free) license:
 
 * [Anaconda](https://www.anaconda.com/): management python modules
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization
-* [FoldX](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
-* [DeepRank](https://pypi.org/project/deeprank/): scoring function for protein-protein interaction and more 
-* [MODELLER](https://salilab.org/modeller/): homology modelling
+* [FoldX 5.1](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
+* [MODELLER 10.5](https://salilab.org/modeller/): homology modelling
 
 ### Install python libraries with Conda
 Conda can be used to install the python libraries that will be used during the workshop.
@@ -77,11 +76,11 @@ These are the webservers and online resources that we will use during the worksh
 
 14.00-15.00
 *   **L8**: Building models of protein complexes with AF3
-*   **L9**: Scoring functions to evaluate quality of protein complexes and binding affinity prediction
+*   **L9**: Binding affinity prediction for protein complexes
 
 15.00-18.00
 *   **P7**: [Building models of protein complexes with AF3](DAY-2/README.md#P7) 
-*   **P8**: [Quality assessment with different scoring functions](DAY-2/README.md#P8)
+*   **P8**: [Quality assessment and binding affinity prediction](DAY-2/README.md#P8)
 *   **P9**: [Structural analysis with MDAnalysis](DAY-2/README.md#P9)
 
 ### [Day 3](DAY-3/README.md)

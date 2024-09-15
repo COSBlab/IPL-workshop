@@ -101,7 +101,7 @@ These are the webservers and online resources that we will use during the worksh
 
 ### [Day 4](DAY-4/README.md)
 All day
-   * Group activity: explain goal, provide sequence HEV capsid, go!
+   * [Group activity: explain goal, provide sequence HEV capsid, go!](DAY-4/README.md#group)
  
 ### [Day 5](DAY-5/README.md) 
 9.00-12.00

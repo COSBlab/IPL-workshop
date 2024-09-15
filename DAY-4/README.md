@@ -1,3 +1,3 @@
-# IPL-workshop: Day 1
+# IPL-workshop: Day 4
 
-## Preliminary program
+## <a name="group"></a>Group activity

@@ -12,7 +12,7 @@ To complete this exercise,
 
 * we will first start with a quick benchmark of the two approaches. To do so, we will use known experimental structures of antibody/antigen complexes retrieved from [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab), a database containing all the antibody structures available in the PDB. 52 structures satisfying certain criteria have already beem downloaded locally: protein antigen, max sequence identity 65%, maximum resolution 3 Ang.
 
-* the students need to extract from a selection of experimental structures the structure of the antigen. To do so, the student can use the ```extract_chains.py``` script utilized in one of our previous exercises. The table ```summary.tsv``` contains a list of PDBs along with chains assignement for antibody and antigen.
+* the students need to extract from a selection of experimental structures (around 5-10) the structure of the antigen. To do so, the student can use the ```extract_chains.py``` script utilized in one of our previous exercises. The table ```summary.tsv``` contains a list of PDBs along with chains assignement for antibody and antigen.
 
 * The structures of the antigens will be uploaded to PeSTo and ScanNet servers:
   1. for PeSTo: choose the model ```PeSTo```, select ```Detect chains```, and then ```Submit```

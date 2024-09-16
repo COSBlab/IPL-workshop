@@ -48,7 +48,7 @@ These are the webservers and online resources that we will use during the worksh
 * [AlphaFold2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb): structure prediction from sequence
 * [AlphaFold3](https://alphafoldserver.com/about): structure prediction from sequence
 * [Foldseek](https://search.foldseek.com/search): find similarities from structure
-* [Pesto](https://pesto.epfl.ch/): parameter-free geometric deep learning method to predict protein interaction interfaces
+* [PeSTo](https://pesto.epfl.ch/): parameter-free geometric deep learning method to predict protein interaction interfaces
 * [ScanNet](http://bioinfo3d.cs.tau.ac.il/ScanNet/): geometric deep learning model for predicting protein binding sites from structure 
 * [HADDOCK](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/): High Ambiguity Driven protein-protein DOCKing
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB

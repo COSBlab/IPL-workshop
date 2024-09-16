@@ -46,6 +46,7 @@ These are the webservers and online resources that we will use during the worksh
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB
 
 **Note** The AlphaFold3 server requires opening an account. Please make sure you set this up before joining the workshop.
+For HADDOCK, we will provide credentials to use the server. However, please consider opening your own account prior to the meeting.
 
 ## Program of the workshop
 **L**: lecture; **P**: practical

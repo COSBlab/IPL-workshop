@@ -33,6 +33,8 @@ To open the Python Notebooks environment, just type:
 jupyter lab
 ```
 
+**Note** Please make sure to setup the conda environment and install the libraries prior to the meeting.
+
 ## Online resources
 These are the webservers and online resources that we will use during the workshop:
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): find similarities between sequences 

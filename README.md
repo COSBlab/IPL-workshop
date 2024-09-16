@@ -131,13 +131,13 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 9.00-10.00 
 
-*    **L10**: AI prediction of protein-protein interactions: Pesto and ScanNet
+*    **L10**: Predicting protein-protein interactions with AI: Pesto and ScanNet
 
 *    **L11**: SAbDab: the Oxford database of antibodies structures
 
 10.00-12.30
 
-*    **P10**: [AI prediction of protein-protein interactions: Pesto and ScanNet](DAY-3/README.md#P10)
+*    **P10**: [Predicting protein-protein interactions with AI](DAY-3/README.md#P10)
 
 14.00-15.00
 

@@ -1,0 +1,8 @@
+open annotated_fold_banal_20_52_model_0.pdb 
+dssp
+hide atoms
+show cartoon
+color gray transparency 10
+surface /A
+color by bfactor /A range 0,0.35 transparency 0
+lighting soft

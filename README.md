@@ -9,11 +9,8 @@ Authors: Vincent Schnapka and Max Bonomi (Institut Pasteur - CNRS).
 Here is a list of software to be installed on your Linux/Mac laptop:
 
 * [Anaconda](https://www.anaconda.com/): management python modules
-
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization
-
 * [FoldX 5.1](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
-
 * [MODELLER 10.5](https://salilab.org/modeller/): homology modelling
 
 **Note** Some software require a (free) academic license. Please make sure you obtain one before joining the workshop.
@@ -47,21 +44,13 @@ jupyter lab
 These are the webservers and online resources that we will use during the workshop:
 
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): find similarities between sequences 
-
 * [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html): sequence alignment tool
-
 * [AlphaFold2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb): structure prediction from sequence
-
 * [AlphaFold3](https://alphafoldserver.com/about): structure prediction from sequence
-
 * [Foldseek](https://search.foldseek.com/search): find similarities from structure
-
 * [Pesto](https://pesto.epfl.ch/): parameter-free geometric deep learning method to predict protein interaction interfaces
-
 * [ScanNet](http://bioinfo3d.cs.tau.ac.il/ScanNet/): geometric deep learning model for predicting protein binding sites from structure 
-
 * [HADDOCK](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/): High Ambiguity Driven protein-protein DOCKing
-
 * [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab): database containing all the antibody structures available in the PDB
 
 **Note** The AlphaFold3 server requires opening an account. Please make sure you set this up before joining the workshop.

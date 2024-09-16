@@ -14,4 +14,4 @@ To complete this exercise,
 
 * the sequence of the HEV capsid protein will be communicated during the workshop
 
-* students are free to try all the techniques learned during the workshop to obtain a consensus preditiction of the immunogenic domains of the HEV capsid protein 
+* students are encouraged to try all the techniques learned during the workshop to obtain a consensus preditiction of the immunogenic domains of the HEV capsid protein 

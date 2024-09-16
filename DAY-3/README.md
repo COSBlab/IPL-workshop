@@ -22,7 +22,7 @@ To complete this exercise,
   1. visual inspect the PDBs with ChimeraX and color each residue by Bfactor 
   2. adapt our previous Python Notebooks to create a plot showing, for each residue, the value of the PeSTo and ScanNet scoring function and highlighting the interacting residues extracted from the full PDB of the antibody/antigen complex deposited in [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab)
 
-* After benchmarking the two methods on a few complexes extracted from SAbDab, the student will make predictions for our viral proteins starting from their best AF2/AF3 models
+* After benchmarking the two methods on a few complexes extracted from SAbDab, the student will make predictions for our viral protein starting from their best AF2/AF3 models
 
 * As for the SAbDab benchmark, the student will adapt our previous Python Notebooks to create a plot showing, for each residue, the value of the PeSTo and ScanNet scoring function and highlighting the interacting residues in models of viral protein/antibodies complexes obtained with MODELLER and AF3 in previous exercises.
 

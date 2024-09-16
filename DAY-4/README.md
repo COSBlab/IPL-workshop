@@ -4,7 +4,7 @@
 
 **Aim**
 
-In this group activity, the students will use all the modelling techniques learned during the first 3 days to identify the most likely immunogenic domains of the HEV capsid proteins.
+In this group activity, the students will use all the modelling techniques learned during the first 3 days to identify the most likely immunogenic domains of the HEV capsid protein.
 
 **Tasks**
 

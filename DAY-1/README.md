@@ -57,7 +57,7 @@ To complete this exercise, the student needs to:
 
 * first prepare the template PDB file by extracting the desidered chains from the PDB of the homolog structure.
   In this example, we will use ```7cwl.pdb``` and extract chain C (spike) and chains I and K (Fab P17 heavy and light chains). We can do this with a text editor or using
-  the followng python script:
+  the following python script:
   
   ```
   python extract_chains.py 7cwl-protein.pdb C I K 

@@ -1,6 +1,6 @@
 # IPL-workshop: Day 3
 
-## <a name="P10"></a>P10: AI prediction of protein binding sites: PeSTo and ScanNet
+## <a name="P10"></a>P10: AI prediction of protein-protein interactions: PeSTo and ScanNet
 
 **Aim**
 

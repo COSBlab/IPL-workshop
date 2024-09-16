@@ -16,7 +16,7 @@ To complete this exercise,
 
 * The structures of the antigen will be uploaded to PeSTo and ScanNet servers:
   1. for PeSTo: choose the model ```PeSTo```, select ```Detect chains```, and then ```Submit```
-  2. for ScanNet:
+  2. for ScanNet: choose binding site type ```Protein-antibody```,  provide an email address, and then ```Submit```
 
 * In both cases, the students will retrieve a PDB file in which the Bfactor column contains a scoring function quantifying the probability of each residue to participate in protein-protein (or protein-antibody) interactions. To analyze the PDBs, the student will:
   1. visual inspect the PDBs with ChimeraX and color each residue by Bfactor 

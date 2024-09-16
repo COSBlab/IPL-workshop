@@ -9,9 +9,10 @@ Authors: Vincent Schnapka and Max Bonomi (Institut Pasteur - CNRS).
 Here is a list of software to be installed on your Linux/Mac laptop:
 
 * [Anaconda](https://www.anaconda.com/): management python modules
-* [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization
 * [FoldX 5.1](https://foldxsuite.crg.eu/): scoring function for protein-protein interaction and more
 * [MODELLER 10.5](https://salilab.org/modeller/): homology modelling
+* [PyMOL](https://www.pymol.org/): structure visualization
+* [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): structure visualization (optional)
 
 **Note** Some software require a (free) academic license. Please make sure you obtain one before joining the workshop.
 

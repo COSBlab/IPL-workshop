@@ -37,4 +37,6 @@ In this exercise, we will learn how to use [HADDOCK](https://rascar.science.uu.n
 
 To complete this exercise, the student will:
 
-* complete the tutorial on antibody/antigen available [here](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/). Credentials to access the server will be distributed during the workshop
+* complete the tutorial on antibody/antigen available [here](https://www.bonvinlab.org/education/HADDOCK24/HADDOCK24-antibody-antigen-basic/). Credentials to access the server will be distributed during the workshop.
+
+* In the visualisation part of the tutorial, if PyMOL crashes upon running the rms_cur command, the student can use the provided "calc_lrmsd" notebook to calculate the ligand-rmsd of the different models.

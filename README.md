@@ -138,4 +138,4 @@ All day
 9.00-12.00
 
 * [Prepare slides and present results](DAY-5/README.md#results)
-
+* Feedback on the workshop

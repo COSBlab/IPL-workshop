@@ -98,7 +98,7 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 14.00-15.00
 
-*   **L8**: Structure prediction of protein complexes with AlphaFold3
+*   **L8**: Structure prediction of protein complexes with AlphaFold
 *   **L9**: Binding free-energy estimation for protein complexes
 
 15.00-18.00

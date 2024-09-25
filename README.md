@@ -63,23 +63,29 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 ### [Day 1](DAY-1/README.md)
 
-9.00-10.30
+8.30-10.00
 
 *   **L1**:  Introduction to the course: goals and overview of the program
 *   **L2**:  Identify homolog structures in complex with receptors and antibodies
 *   **L3**:  Revise sequence alignment
 
-10.30-12.30 
+10.00-10.30 Coffee break
+
+10.30-12.00 
 
 *   **P1**: [Identify homolog structures wth BLAST](DAY-1/README.md#P1)
 *   **P2**: [Sequence alignment with MAFFT](DAY-1/README.md#P2)
 
-14.00-15.30
+12.00-13.00 Lunch
+
+13.00-14.30
 
 *   **L4**: Introduction to MODELLER
 *   **L5**: Structural analysis with MDAnalysis
 
-15.30-18.00
+14.30-15.00 Coffee break
+
+15.00-17.00
 
 *   **P3**: [Build homology models of viral protein in complex with receptor/antibody](DAY-1/README.md#P3)
 *   **P4**: [Structural analysis with MDAnalysis](DAY-1/README.md#P4)

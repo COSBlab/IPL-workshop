@@ -61,87 +61,83 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 **L**: lecture; **P**: practical
 
+Coffee breaks: 10.00-10.30 and 15.00-15.30
+
 ### [Day 1](DAY-1/README.md)
 
-8.30-10.00
+8.30-12.00
 
 *   **L1**:  Introduction to the course: goals and overview of the program
 *   **L2**:  Identify homolog structures in complex with receptors and antibodies
 *   **L3**:  Revise sequence alignment
-
-10.00-10.30 Coffee break
-
-10.30-12.00 
 
 *   **P1**: [Identify homolog structures wth BLAST](DAY-1/README.md#P1)
 *   **P2**: [Sequence alignment with MAFFT](DAY-1/README.md#P2)
 
 12.00-13.00 Lunch
 
-13.00-14.30
+13.00-16.30
 
 *   **L4**: Introduction to MODELLER
 *   **L5**: Structural analysis with MDAnalysis
 
-14.30-15.00 Coffee break
-
-15.00-17.00
-
 *   **P3**: [Build homology models of viral protein in complex with receptor/antibody](DAY-1/README.md#P3)
 *   **P4**: [Structural analysis with MDAnalysis](DAY-1/README.md#P4)
 
+16.30-17.00 Debriefing and discussions
+
 ### [Day 2](DAY-2/README.md) 
 
-9.00-10.00 
+8.30-12.00
 
 *   **L6**: Structure prediction with AI: AlphaFold2 and AlphaFold3
 *   **L7**: Foldseek: how to look for similar structures in the PDB
  
-10.00-12.30
-
 *   **P5**: [Building models of viral proteins with AF2/AF3](DAY-2/README.md#P5)
 *   **P6**: [Look for similar structures in complex with antibodies/receptors](DAY-2/README.md#P6)
 
-14.00-15.00
+12.00-13.00 Lunch
+
+13.00-16.30
 
 *   **L8**: Structure prediction of protein complexes with AlphaFold
 *   **L9**: Binding free-energy estimation for protein complexes
-
-15.00-18.00
 
 *   **P7**: [Building models of protein complexes with AF3](DAY-2/README.md#P7)
 *   **P8**: [Quality assessment and binding free-energy estimation](DAY-2/README.md#P8)
 *   **P9**: [Structural analysis with MDAnalysis](DAY-2/README.md#P9)
 
+16.30-17.00 Debriefing and discussions
+
 ### [Day 3](DAY-3/README.md)
 
-9.00-10.00 
+8.30-12.00
 
 *    **L10**: Predicting protein-protein interactions with AI
 *    **L11**: SAbDab: the Oxford database of antibodies structures
 
-10.00-12.30
-
 *    **P10**: [Predicting protein-protein interactions with AI](DAY-3/README.md#P10)
 
-14.00-15.00
+12.00-13.00 Lunch
+
+13.00-16.30
 
 *    **L12**: Introduction to physics-based docking: HADDOCK
 *    **L13**: Description of the tutorial
 
-15.00-18.00
-
 *   **P11**: [HADDOCK Tutorial on antibody/antigen](DAY-3/README.md#P11)
+
+16.30-17.00 Debriefing and discussions
 
 ### [Day 4](DAY-4/README.md)
 
-All day
+8.30-17.00
 
 * [Group activity: explain goal, provide sequence HEV capsid, go!](DAY-4/README.md#group)
  
 ### [Day 5](DAY-5/README.md) 
 
-9.00-12.00
+8.30-12.00
 
 * [Prepare slides and present results](DAY-5/README.md#results)
 * Feedback on the workshop

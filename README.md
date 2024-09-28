@@ -115,12 +115,10 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 12.00-13.00 Lunch
 
-13.00-16.30
+13.00-15.50
 
 *   **L12**: Introduction to physics-based docking: HADDOCK
 *   **P11**: [HADDOCK Tutorial on antibody/antigen](DAY-3/README.md#P11)
-
-16.30-17.00 Debriefing and discussions
 
 ### [Day 4](DAY-4/README.md)
 

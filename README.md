@@ -31,6 +31,10 @@ Now we can install all the modules needed during our workshop
 ```
 conda install matplotlib jupyterlab numpy biopython mdanalysis --channel conda-forge
 ```
+And add MODELLER:
+```
+conda install modeller --channel salilab
+```
 
 Many of the python scripts that we will use will be executed using Jupyter Python Notebooks.
 To open the Python Notebooks environment, just type:

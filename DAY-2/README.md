@@ -78,12 +78,13 @@ To complete this exercise, the student will:
 
 * on the AF3 webpage, the students will input one sequence per each component of the protein complex and submit the job. The students are invited to model multiple protein complexes using different antibodies/receptors, within the limit of the number of jobs allowed per day
 
-## <a name="P8"></a>P8: Quality assessment and binding free-energy estimation
+
+## <a name="P8"></a>P8: Quality assessment and structural analysis with MDAnalysis 
 
 **Aim**
 
-In this exercise, we will assess the quality of the models of the protein complexes obtained with AF3 in the previous exercise and estimate the binding
-free-energy of the viral protein to its partner with [FoldX](https://foldxsuite.crg.eu/).
+In this exercise, we will assess the quality of the models of the protein complexes obtained with AF3 in the previous exercise and 
+use [MDAnalysis](https://www.mdanalysis.org) to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor.
 
 **Tasks**
 
@@ -94,19 +95,17 @@ To complete this exercise, the students will:
 
   2. we now analyse the per-residue pLDDT across all models generated using the Python Notebook ```analyze_AF.ipynb``` used in one of the previous exercises. Please make sure to adapt the notebook to this exercise, if necessary
 
-* Finally, we will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
-     ```
-     jupyter lab analyze_FoldX.ipynb
-     ```  
+  3. finally, we use the Python notebook ```MDAnalysis_interaction_profile.ipynb``` to analyze all the AF3 models obtained (5 models for each complex with antibody/fabs) and compute the frequency at which each residue of the viral protein interacts with a partner across different models to identify immunogenic domains. Finally, we will create a PDB file of the viral protein in which the Bfactor column will report the interaction frequency with partners across all the AF3 models generated 
 
-## <a name="P9"></a>P9: Structural analysis with MDAnalysis
+## <a name="P9"></a>P9: Binding free-energy estimation
 
 **Aim**
 
-In this exercise, we will use [MDAnalysis](https://www.mdanalysis.org) to analyze the AF3 models obtained in the previous exercise to automatically identify the residues on the viral protein that interact with the antibody/fab/receptor.
+In this exercise, we will estimate the binding free-energy of the viral protein to its partner with [FoldX](https://foldxsuite.crg.eu/).
 
 **Tasks**
 
-To complete this exercise, the student needs to:
-* edit and use the Python notebook ```MDAnalysis_interaction_profile.ipynb``` previously used to analyze homology models
-* this notebook should be adapted to analyze all the AF3 models obtained (5 models for each complex with antibody/fabs) and compute the frequency at which each residue of the viral protein interacts with a partner across different models to identify immunogenic domains. Finally, the student will create a PDB file of the viral protein in which the Bfactor column will report the interaction frequency with partners across all the AF3 models generated 
+* We will estimate the binding free-energy of the viral protein to the antibody using [FoldX](https://foldxsuite.crg.eu/). To do so, the student must edit and run the following Python Notebook:
+     ```
+     jupyter lab analyze_FoldX.ipynb
+     ```

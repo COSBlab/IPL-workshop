@@ -104,8 +104,8 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 *   **L8**: Structure prediction of protein complexes with AlphaFold
 *   **P7**: [Building models of protein complexes with AF3](DAY-2/README.md#P7)
 *   **L9**: Binding free-energy estimation for protein complexes
-*   **P8**: [Quality assessment and binding free-energy estimation](DAY-2/README.md#P8)
-*   **P9**: [Structural analysis with MDAnalysis](DAY-2/README.md#P9)
+*   **P8**: [Quality assessment and structural analysis with MDAnalysis](DAY-2/README.md#P8)
+*   **P9**: [Binding free-energy estimation](DAY-2/README.md#P9)
 
 16.30-17.00 Debriefing and discussions
 

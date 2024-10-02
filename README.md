@@ -120,9 +120,11 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 12.00-13.00 Lunch
 
-13.00-15.50
+13.00-15.30
 
 *   **P11**: [HADDOCK Tutorial on antibody/antigen](DAY-3/README.md#P11)
+
+15.30-15.50 Debriefing and discussions
 
 ### [Day 4](DAY-4/README.md)
 

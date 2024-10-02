@@ -28,7 +28,7 @@ To complete this exercise,
   python convert_cif_pdb.py model.cif
   ```
 
-* The students will compare these predictions with the results obtained in the previous exercises (visually or adapting a python Notebook)
+* The students will compare these predictions with the results obtained in the previous exercises (visually or using the Notebook ```analyze_Pesto_Scannet.ipynb```)
 
 
 ## <a name="P11"></a>P11: HADDOCK Tutorial on antibody/antigen

@@ -126,10 +126,12 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 ### [Day 4](DAY-4/README.md)
 
-8.30-17.00
+8.30-16.30
 
 * [Group activity: explain goal, provide sequence HEV capsid, go!](DAY-4/README.md#group)
  
+16.30-17.00 Debriefing and discussions
+
 ### [Day 5](DAY-5/README.md) 
 
 8.30-12.00

@@ -8,4 +8,4 @@ The students divided in groups will give a short presentation of the results of 
 
 **Tasks**
 
-* prepare a short (15/20 minutes) presentation explaining what the group have been doing and presenting their predictions of the most likely immunogenic domains of the HEV capsid protein
+* prepare a short (~15 minutes) presentation explaining what the group have been doing and presenting their predictions of the most likely immunogenic domains of the HEV capsid protein

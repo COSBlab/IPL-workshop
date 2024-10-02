@@ -116,12 +116,12 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 *   **L10**: Predicting protein-protein interactions with AI
 *   **L11**: SAbDab: the Oxford database of antibodies structures
 *   **P10**: [Predicting protein-protein interactions with AI](DAY-3/README.md#P10)
+*   **L12**: Introduction to physics-based docking: HADDOCK
 
 12.00-13.00 Lunch
 
 13.00-15.50
 
-*   **L12**: Introduction to physics-based docking: HADDOCK
 *   **P11**: [HADDOCK Tutorial on antibody/antigen](DAY-3/README.md#P11)
 
 ### [Day 4](DAY-4/README.md)

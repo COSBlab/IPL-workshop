@@ -20,11 +20,11 @@ To complete this exercise,
 
 * In both cases, the students will retrieve a PDB file in which the Bfactor column contains a scoring function quantifying the probability of each residue to participate in protein-protein (or protein-antibody) interactions. To analyze the PDBs, the student will:
   1. visualize the PDBs with ChimeraX and color each residue by Bfactor 
-  2. adapt our previous Python Notebooks to create a plot showing, for each residue, the value of the PeSTo and ScanNet scoring function and comparing these predictions with the interacting residues extracted from the PDB of the antibody/antigen complex deposited in [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab)
+  2. use the Notebook ```analyze_Pesto_Scannet.ipynb``` to show, for each residue, the value of the PeSTo and ScanNet scoring function and to compare these predictions with the interacting residues extracted from the PDB of the antibody/antigen complex deposited in [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab)
 
 * After benchmarking the two methods on a few complexes extracted from SAbDab, the student will make predictions for our viral protein starting from their best AF2/AF3 models
 
-* As for the SAbDab benchmark, the student will adapt our previous Python Notebooks to create a plot showing, for each residue, the value of the PeSTo and ScanNet scoring function and comparing these predictions with the interacting residues in models of viral protein/antibodies complexes obtained with MODELLER and AF3 in previous exercises.
+* The students will compare these predictions with the results obtained in the previous exercises (visually or adapting a python Notebook)
 
 
 ## <a name="P11"></a>P11: HADDOCK Tutorial on antibody/antigen

@@ -135,7 +135,9 @@ For HADDOCK, we will provide credentials to use the server. However, please cons
 
 ### [Day 5](DAY-5/README.md) 
 
-8.30-12.00
+8.30-11.30
 
 * [Prepare slides and present results](DAY-5/README.md#results)
 * Feedback on the workshop
+
+11.30-12.00 Attendance certificates
